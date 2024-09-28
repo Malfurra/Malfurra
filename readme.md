@@ -1,8 +1,10 @@
 # Heyy!! I'm Mallow ✨
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=tokyonight)
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
