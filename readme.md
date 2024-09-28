@@ -1,5 +1,8 @@
 # Heyy!! I'm Mallow ✨
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfurra)](https://github.com/malfurra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=tokyonight"
