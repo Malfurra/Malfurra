@@ -7,7 +7,7 @@
 <li>🤝 Looking to collaborate on: Beginner-friendly open-source projects</li>
 <li>📫 How to reach me: mallownly@gmail.com!</li>
 
-<p>I’m eager to connect with others in the tech community and share what I learn along the way!
+<p>I’m eager to connect with others in the tech community and share what I learn along the way!</p>
 
 ___
 
