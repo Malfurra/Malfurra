@@ -2,7 +2,7 @@
 
 
 
-# Github Stats 📊
+<p align="center"> Github Stats📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=tokyonight)
 
@@ -14,3 +14,5 @@ ___
 ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malfurra&theme=tokyonight)
 ___
+
+</p>
