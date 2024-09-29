@@ -5,7 +5,7 @@
 <li>🌱 Currently Learning: HTML, CSS, JavaScript</li>
 <li>👀 Interested in: Front end and Cyber security</li>
 <li>🤝 Looking to collaborate on: Beginner-friendly open-source projects</li>
-<li>📫 How to reach me: mallownly@gmail.com!</li>
+<li>📫 How to reach me: mallownly@gmail.com</li>
 
 <blockquote> I’m eager to connect with others in the tech community and share what I learn along the way! </blockquote>
 
