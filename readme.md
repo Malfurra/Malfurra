@@ -1,5 +1,11 @@
 # Heyy!! I'm Mallow ✨
+I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!
 
+🌱 Currently Learning: HTML, CSS, JavaScript
+👀 Interested in: Front end and Cyber security
+🤝 Looking to collaborate on: Beginner-friendly open-source projects
+📫 How to reach me: mallownly@gmail.com!
+I’m eager to connect with others in the tech community and share what I learn along the way!
 
 
 <p align="center"> Github Stats📊
