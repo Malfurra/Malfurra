@@ -1,5 +1,5 @@
-# <font face="cursive">Heyy!! I'm Mallow ✨</font>
-<strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong>
+# Heyy!! I'm Mallow ✨
+<blockquote><strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong></blockquote>
 
 <ul>
 <li>🌱 Currently Learning: HTML, CSS, JavaScript</li>
@@ -7,7 +7,7 @@
 <li>🤝 Looking to collaborate on: Beginner-friendly open-source projects</li>
 <li>📫 How to reach me: mallownly@gmail.com</li>
 </ul>
-<blockquote> I’m eager to connect with others in the tech community and share what I learn along the way! </blockquote>
+<blockquote> <strong> I’m eager to connect with others in the tech community and share what I learn along the way!</strong> </blockquote>
 
 ___
 
