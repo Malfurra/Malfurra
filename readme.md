@@ -1,4 +1,4 @@
-# <i>Heyy!! I'm Mallow ✨</i>
+# <font face="cursive">Heyy!! I'm Mallow ✨</font>
 <strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong>
 
 <ul>
