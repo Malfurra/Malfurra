@@ -1,4 +1,4 @@
-# Heyy!! I'm Mallow ✨
+# <i>Heyy!! I'm Mallow ✨</i>
 <strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong>
 
 <ul>
