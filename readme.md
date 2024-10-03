@@ -9,7 +9,7 @@
 </ul>
 <blockquote> <strong> I’m eager to connect with others in the tech community and share what I learn along the way!</strong> </blockquote>
 
-___
+_____
 
 <p align="center"> Github Stats📊
 
