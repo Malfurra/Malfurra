@@ -1,4 +1,12 @@
-# <p align="center"> I'm Mallow ✨</p>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</head>
+
+
+<body>
+
+# <p id="suki" align="center"></p>
 <blockquote><strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong></blockquote>
 
 <ul>
@@ -25,3 +33,12 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfurra&langs_count=8&theme=tokyonight)
 </p>
+
+let suki = new Typed("#suki", {
+      strings: ["I'm Mallow ✨"],
+      typeSpeed: 90,
+      startDelay: 70,
+      loop: true
+    });
+</body>
+</html>
