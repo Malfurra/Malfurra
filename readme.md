@@ -1,12 +1,12 @@
 <html>
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  
 </head>
 
 
 <body>
 
-# <p id="suki" align="center"></p>
+# <p id="suki" align="center">I'm Mallow</p>
 <blockquote><strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong></blockquote>
 
 <ul>
