@@ -6,7 +6,7 @@
 
 <body>
 
-# <p id="suki" align="center">I'm Mallow</p>
+# <p id="suki" align="center">Hello 👋</p>
 <blockquote><strong>I'm just starting my journey in web development and coding. I'm excited to learn new things and improve my skills every day!</strong></blockquote>
 
 <ul>
