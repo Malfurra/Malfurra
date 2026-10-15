@@ -183,7 +183,7 @@ Want to collaborate on open-source, discuss Cloud/SRE architectures, or connect?
 | Platform | Handle / Link |
 |---|---|
 | **GitHub** | [@Malfurra](https://github.com/Malfurra) |
-| **LinkedIn** | [Muhammad Yasin](www.linkedin.com/in/itssinn01) |
+| **LinkedIn** | [Muhammad Yasin](https://www.linkedin.com/in/itssinn01) |
 | **Instagram** | [@its_sinn01](https://www.instagram.com/its_sinn01/) |
 | **YouTube** | [@its_sinn01](https://www.youtube.com/@its_sinn01) |
 | **Telegram** | [@malfurra](https://t.me/malfurra) |
