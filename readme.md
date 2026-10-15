@@ -1,6 +1,8 @@
 <div align="center">
 
-  # Hey there ✌️
+  <div align=center><a href="https://github.com/Malfurra"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&pause=1000&color=D2D7E8&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Muhammad+Yasin;I%E2%80%99m+a+Cloud+Engineer+at+Sucode" alt="Typing SVG"/></a></div>
+
+### About Me 🔍
   <img width="490" alt="Banner" src="banner.png" />
 
 > *"Ingin menjadi AI Engineer namun hobi vibe coding."*
