@@ -1,7 +1,7 @@
 <div align="center">
 
   # ✦ Muhammad Yasin ✦
-  <img width="490" height="276" alt="Banner" src="asset/banner.png" />
+  <img width="490" alt="Banner" src="banner.png" />
 
 > *"Ingin menjadi AI Engineer namun hobi vibe coding."*
 
