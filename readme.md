@@ -182,7 +182,7 @@ Want to collaborate on open-source, discuss Cloud/SRE architectures, or connect?
 |---|---|
 | **GitHub** | [@Malfurra](https://github.com/Malfurra) |
 | **LinkedIn** | [Muhammad Yasin](https://www.linkedin.com/in/itssin01) |
-| **NPM Registry** | [@phrolovaa/baileys](https://www.npmjs.com/package/@phrolovaa/baileys) |
+| **Instagram** | [@phrolovaa/baileys](https://www.instagram.com/its_sinn01/) |
 | **YouTube** | [@its_sinn01](https://www.youtube.com/@its_sinn01) |
 | **Telegram** | [@malfurra](https://t.me/malfurra) |
 | **Team / Org** | [@SUCODE-TEAM](https://github.com/SUCODE-TEAM) |
