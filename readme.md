@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✦ Muhammad Yasin ✦
+  # Hey there ✌️
   <img width="490" alt="Banner" src="banner.png" />
 
 > *"Ingin menjadi AI Engineer namun hobi vibe coding."*
