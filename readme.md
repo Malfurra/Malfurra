@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align=center><a href="https://github.com/Malfurra"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&size=50&height=70&pause=1000&color=D2D7E8&center=true&vCenter=true&width=1000&lines=Hello%2C+I+am+Muhammad+Yasin;I%E2%80%99m+a+Cloud+Engineer+at+Sucode" alt="Typing SVG"/></a></div>
+<div align=center><a href="https://github.com/Malfurra"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&size=40&height=70&pause=1000&color=D2D7E8&center=true&vCenter=true&width=1000&lines=Hello%2C+I+am+Muhammad+Yasin;I%E2%80%99m+a+Cloud+Engineer+at+Sucode" alt="Typing SVG"/></a></div>
 
   <img width="400" alt="Banner" src="aws.png" />
 
